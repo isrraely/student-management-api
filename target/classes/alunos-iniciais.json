@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Erik Oliver",
+    "sexo": "M",
+    "dataNascimento": "1987-10-10",
+    "materias": [
+      { "materia": "Matemática", "nota": 10.0 },
+      { "materia": "Fisica", "nota": 9.0 }
+    ]
+  },
+  {
+    "nome": "Rafael Dinarzio",
+    "sexo": "M",
+    "dataNascimento": "1984-09-27",
+    "materias": [
+      { "materia": "Geografia", "nota": 8.0 },
+      { "materia": "Ingles", "nota": 10.0 }
+    ]
+  },
+  {
+    "nome": "Max Caulfield",
+    "sexo": "F",
+    "dataNascimento": "1995-09-21",
+    "materias": [
+      { "materia": "Artes", "nota": 9.5 },
+      { "materia": "Inglês", "nota": 8.0 }
+    ]
+  },
+  {
+    "nome": "Leon Kennedy",
+    "sexo": "M",
+    "dataNascimento": "1998-05-14",
+    "materias": [
+      { "materia": "Educação Física", "nota": 10.0 },
+      { "materia": "Química", "nota": 6.5 }
+    ]
+  },
+  {
+    "nome": "Ellie Williams",
+    "sexo": "F",
+    "dataNascimento": "2004-04-12",
+    "materias": [
+      { "materia": "Biologia", "nota": 9.0 },
+      { "materia": "Geografia", "nota": 7.5 }
+    ]
+  },
+  {
+    "nome": "Ezio Auditore",
+    "sexo": "M",
+    "dataNascimento": "1999-06-24",
+    "materias": [
+      { "materia": "História", "nota": 10.0 },
+      { "materia": "Física", "nota": 5.0 }
+    ]
+  },
+  {
+    "nome": "Anakin Skywalker",
+    "sexo": "M",
+    "dataNascimento": "2002-04-19",
+    "materias": [
+      { "materia": "Física", "nota": 9.5 },
+      { "materia": "Matemática", "nota": 4.0 }
+    ]
+  },
+  {
+    "nome": "Cecily Knightley",
+    "sexo": "F",
+    "dataNascimento": "1996-10-31",
+    "materias": [
+      { "materia": "Literatura", "nota": 10.0 },
+      { "materia": "Inglês", "nota": 9.5 }
+    ]
+  },
+  {
+    "nome": "Franco",
+    "sexo": "M",
+    "dataNascimento": "1997-08-22",
+    "materias": [
+      { "materia": "Música", "nota": 9.0 },
+      { "materia": "Matemática", "nota": 7.0 }
+    ]
+  },
+  {
+    "nome": "Eloy",
+    "sexo": "M",
+    "dataNascimento": "1996-11-10",
+    "materias": [
+      { "materia": "Música", "nota": 8.5 },
+      { "materia": "Geografia", "nota": 6.0 }
+    ]
+  }
+]

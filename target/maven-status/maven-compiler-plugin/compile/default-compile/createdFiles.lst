@@ -1,0 +1,17 @@
+com\isrraely\studentmanagement\mapper\AlunoMapper.class
+com\isrraely\studentmanagement\dto\AlunoResponse.class
+com\isrraely\studentmanagement\exception\ResourceNotFoundException.class
+com\isrraely\studentmanagement\entity\RegistroAluno.class
+com\isrraely\studentmanagement\dto\MateriaResponse.class
+com\isrraely\studentmanagement\repository\AlunoMateriaRepository.class
+com\isrraely\studentmanagement\config\DataInitializer.class
+com\isrraely\studentmanagement\exception\GlobalExceptionHandler.class
+com\isrraely\studentmanagement\config\DataInitializer$1.class
+com\isrraely\studentmanagement\exception\StandardError.class
+com\isrraely\studentmanagement\service\AlunoService.class
+com\isrraely\studentmanagement\dto\AlunoRequest.class
+com\isrraely\studentmanagement\dto\MateriaRequest.class
+com\isrraely\studentmanagement\controller\AlunoController.class
+com\isrraely\studentmanagement\repository\RegistroAlunoRepository.class
+com\isrraely\studentmanagement\StudentManagementApiApplication.class
+com\isrraely\studentmanagement\entity\AlunoMateria.class

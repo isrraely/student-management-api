@@ -1,0 +1,16 @@
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\config\DataInitializer.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\controller\AlunoController.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\dto\AlunoRequest.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\dto\AlunoResponse.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\dto\MateriaRequest.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\dto\MateriaResponse.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\entity\AlunoMateria.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\entity\RegistroAluno.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\exception\GlobalExceptionHandler.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\exception\ResourceNotFoundException.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\exception\StandardError.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\mapper\AlunoMapper.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\repository\AlunoMateriaRepository.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\repository\RegistroAlunoRepository.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\service\AlunoService.java
+C:\Users\raely\Downloads\student-management-api\student-management-api\src\main\java\com\isrraely\studentmanagement\StudentManagementApiApplication.java
